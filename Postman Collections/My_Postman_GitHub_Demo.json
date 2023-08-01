@@ -99,7 +99,8 @@
 							"value": "gws-wiz"
 						}
 					]
-				}
+				},
+				"description": "Get request for my first request"
 			},
 			"response": []
 		},
@@ -439,7 +440,7 @@
 	],
 	"variable": [
 		{
-			"id": "0e6a265c-47f1-49cd-a5ae-7a7843d8fd65",
+			"id": "25eb6886-058d-4392-9d4a-6741e81ddb43",
 			"key": "URL",
 			"value": "www.boredapi.com"
 		}
