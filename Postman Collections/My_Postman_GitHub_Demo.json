@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "99a60fd6-6878-4600-bbf4-c6b07b51bc0d",
 		"name": "ReqResCollection",
+		"description": "This is my first collection in API postman",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -29,7 +30,7 @@
 					}
 				}
 			],
-			"_postman_id": "652733c6-0b22-4215-a6ad-b2f641a15870",
+			"id": "652733c6-0b22-4215-a6ad-b2f641a15870",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -136,7 +137,7 @@
 					}
 				}
 			],
-			"_postman_id": "e7046344-45c0-4929-bbb0-86f308f61518",
+			"id": "e7046344-45c0-4929-bbb0-86f308f61518",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -158,7 +159,7 @@
 		},
 		{
 			"name": "Update USER",
-			"_postman_id": "614a2896-f326-407d-a575-6bd7424bc6a1",
+			"id": "614a2896-f326-407d-a575-6bd7424bc6a1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -180,7 +181,7 @@
 		},
 		{
 			"name": "Delete USER",
-			"_postman_id": "9a8698de-90de-422b-aba7-0fcbf1a99ca6",
+			"id": "9a8698de-90de-422b-aba7-0fcbf1a99ca6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -231,7 +232,7 @@
 					}
 				}
 			],
-			"_postman_id": "0e7f46f6-a40f-42b0-80b3-1e216b4444c5",
+			"id": "0e7f46f6-a40f-42b0-80b3-1e216b4444c5",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -276,7 +277,7 @@
 					}
 				}
 			],
-			"_postman_id": "aa619a14-86d5-44b7-931c-a45405e7934a",
+			"id": "aa619a14-86d5-44b7-931c-a45405e7934a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -374,7 +375,7 @@
 					}
 				}
 			],
-			"_postman_id": "9e3a5db2-e70d-48cf-90b4-c885e5199921",
+			"id": "9e3a5db2-e70d-48cf-90b4-c885e5199921",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -424,7 +425,7 @@
 		},
 		{
 			"name": "https://58c6b4c7-eaf3-42c5-aa86-36e931fbe40f.mock.pstmn.io",
-			"_postman_id": "aeb35703-52d5-40ef-8d44-2805e3d05379",
+			"id": "aeb35703-52d5-40ef-8d44-2805e3d05379",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -438,10 +439,9 @@
 	],
 	"variable": [
 		{
-			"id": "64a85422-bc91-4469-8429-c35213bde16b",
+			"id": "0e6a265c-47f1-49cd-a5ae-7a7843d8fd65",
 			"key": "URL",
-			"value": "www.boredapi.com",
-			"type": "string"
+			"value": "www.boredapi.com"
 		}
 	]
 }
