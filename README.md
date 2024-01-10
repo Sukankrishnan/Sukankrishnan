@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sukanya Santhanakrishnan @Sukankrishnan
 - 👀 I’m interested in Software Testing, crafts, chitchats
-- 🌱 I’m currently learning API Testing
+- 🌱 I’m currently learning API Testing, Javascript
 - 💞️ I’m looking to collaborate on Testing challenges
 - 📫 Reach me @sukan.santhanam@gmail.com
 
