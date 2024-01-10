@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sukankrishnan
+- 👋 Hi, I’m Sukanya Santhanakrishnan @Sukankrishnan
 - 👀 I’m interested in Software Testing, crafts, chitchats
 - 🌱 I’m currently learning API Testing
 - 💞️ I’m looking to collaborate on Testing challenges
