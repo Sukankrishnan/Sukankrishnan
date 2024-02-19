@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sukanya Santhanakrishnan @Sukankrishnan
-- 👀 I’m interested in Software Testing, crafts, chitchats
-- 🌱 I’m currently learning API Testing using Postman and Javascript using VS Code
+- 👀 I’m interested in Software Testing, crafts, chitchats and a learner of life :)
+- 🌱 I’m a learner of API Testing using Postman and Javascript using VS Code
 - 💞️ I’m looking to collaborate on Testing challenges
 - 📫 Reach me @sukan.santhanam@gmail.com
 
